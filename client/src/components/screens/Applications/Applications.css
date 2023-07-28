@@ -1,0 +1,24 @@
+.dashboard-cont {
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.dash-head h1 {
+    font-size: 45px;
+    border-bottom: 5px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* margin-left: 35rem;; */
+    color: black;
+}
+
+
+.dash-order-1 {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 50px;
+}
